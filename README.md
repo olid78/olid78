@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there , I'm Sodiol Abdullah
 
-<!--
-**olid78/olid78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer !!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning React
+- 🥅 2022 Goals: Be a full stack developer
+- ⚡ Fun fact: Who thinks he knows, he knows nothing as well as he should know
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=olid78&show_icons=true&theme=radical" />
+<img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olid78&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />

@@ -11,12 +11,5 @@
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=olid78&show_icons=true&theme=radical" />
-
-
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olid78&layout=compact" />
-
-
-
 <img align="left" width="100%" src="https://activity-graph.herokuapp.com/graph?username=olid78&theme=react-dark" />
  

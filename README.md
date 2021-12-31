@@ -1,5 +1,4 @@
 # Hi there , I'm Sodiol Abdullah
-
 ## I'm a Developer !!
 
 - 🌱 I’m currently learning React
@@ -8,6 +7,7 @@
 - I prefer to keep learning, continue challenging myself, and do interesting things that matter.
 
 
+##
 
 
 <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=olid78&show_icons=true&theme=radical" />

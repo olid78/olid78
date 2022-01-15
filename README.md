@@ -1,5 +1,5 @@
 # Hi there , I'm Sodiol Abdullah
-## I'm a Developer !!
+
 
 - 🌱 I’m currently learning React
 - 🥅 2022 Goals: Be a full stack developer

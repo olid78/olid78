@@ -1,10 +1,3 @@
-<p align="center">
-
-  <img src="https://media-exp1.licdn.com/dms/image/C5616AQGPInZq3is8Lw/profile-displaybackgroundimage-shrink_200_800/0/1642950593847?e=1648684800&v=beta&t=F764vUZ1TuWE6rMAJk-uSc9dBF8_x6S3q8R4QGiLdoM" alt="Coder GIF" width="800" height="200">
-  
-</p>
-
-
 
 # Hi there , I'm Sodiol Abdullah
 

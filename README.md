@@ -1,9 +1,9 @@
-<p align="center">
+<!-- <p align="center">
 
   <img src="https://media-exp1.licdn.com/dms/image/C5616AQGFKmpfHimkbg/profile-displaybackgroundimage-shrink_350_1400/0/1642135769158?e=1648684800&v=beta&t=H8-9fDK8ozsYCRI0rgHZOuByf9bImoVsPPb4I0XzMe8" alt="Coder GIF" width="800" height="200">
   
 </p>
-
+ -->
 
 
 # Hi there , I'm Sodiol Abdullah

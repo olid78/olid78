@@ -3,7 +3,7 @@
 ## 👋 Hi, I’m Sodiol Abdullah Olid
 
 
-I’m a Software Engineering student and Machine Learning enthusiast, on a journey to expand my skills in problem solving and automation. With a foundation in C++, Python, and Data Structures, I am eager to apply my knowledge to innovative projects that drive impact.
+I’m a Software Engineering student , Front-End developer and Machine Learning enthusiast, on a journey to expand my skills in problem solving and automation. With a foundation in C++, Python, and Data Structures, I am eager to apply my knowledge to innovative projects that drive impact.
 
 What I’m focusing on:
 

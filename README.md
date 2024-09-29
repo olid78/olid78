@@ -6,20 +6,17 @@
 I’m a Software Engineering student , Front-End developer and Machine Learning enthusiast, on a journey to expand my skills in problem solving and automation. With a foundation in C++, Python, and Data Structures, I am eager to apply my knowledge to innovative projects that drive impact.
 
 What I’m focusing on:
-
-	•	Machine Learning: Actively learning the core concepts and techniques to build intelligent systems.
+        •       Machine Learning: Actively learning the core concepts and techniques to build intelligent systems.
 	•	Problem Solving: Enhancing my algorithmic thinking by tackling real-world challenges with C++ and Python.
 	•	Automation: Developing solutions to optimize and automate repetitive tasks for business processes.
 
 Skills and Expertise:
-
-	•	Programming: Proficient in C++, Python; experienced in front-end technologies (HTML, CSS, JavaScript).
+        •  	Programming: Proficient in C++, Python; experienced in front-end technologies (HTML, CSS, JavaScript).
 	•	Machine Learning: Early-stage learner, building foundational skills in Python and data science.
 	•	Data Structures & Algorithms: Strengthening problem-solving abilities through structured learning and hands-on practice.
 
 You’ll also find:
-
-	•	DSA notes and insights from my learning process.
+        •	DSA notes and insights from my learning process.
 	•	Practical solutions to algorithm problems and coding challenges.
 
 I’m driven by continuous learning and a passion for innovation, always seeking to apply cutting-edge technology to solve meaningful problems.

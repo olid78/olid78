@@ -1,12 +1,29 @@
 
 
-## 🌐 Crafting Digital Experiences, 
-
-Hey there! I'm Sodiol Abdullah, a passionate front-end developer. With my trusty tools—HTML, CSS, and JavaScript—I weave intricate designs into pixel-perfect reality. Whether it's a sleek landing page or an interactive web app, I thrive on turning ideas into captivating user experiences. When I'm not debugging code, you'll find me sipping coffee and exploring the latest design trends. Let's build something beautiful together! ✨🚀
+## 👋 Hi, I’m Sodiol Abdullah Olid
 
 
-- ⚡ Fun fact: Who thinks he knows, he knows nothing as well as he should know
-- I prefer to keep learning, continue challenging myself, and do interesting things that matter.
+I’m a Software Engineering student and Machine Learning enthusiast, on a journey to expand my skills in problem solving and automation. With a foundation in C++, Python, and Data Structures, I am eager to apply my knowledge to innovative projects that drive impact.
+
+What I’m focusing on:
+
+	•	Machine Learning: Actively learning the core concepts and techniques to build intelligent systems.
+	•	Problem Solving: Enhancing my algorithmic thinking by tackling real-world challenges with C++ and Python.
+	•	Automation: Developing solutions to optimize and automate repetitive tasks for business processes.
+
+Skills and Expertise:
+
+	•	Programming: Proficient in C++, Python; experienced in front-end technologies (HTML, CSS, JavaScript).
+	•	Machine Learning: Early-stage learner, building foundational skills in Python and data science.
+	•	Data Structures & Algorithms: Strengthening problem-solving abilities through structured learning and hands-on practice.
+
+You’ll also find:
+
+	•	DSA notes and insights from my learning process.
+	•	Practical solutions to algorithm problems and coding challenges.
+
+I’m driven by continuous learning and a passion for innovation, always seeking to apply cutting-edge technology to solve meaningful problems.
+
 ##
 <img align="left" width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=olid78&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 

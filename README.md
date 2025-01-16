@@ -4,14 +4,18 @@ I’m a Software Engineering student and Machine Learning enthusiast focused on 
 What I’m Currently Focusing On:
 
 -Machine Learning: Learning and building projects to develop expertise in intelligent systems.
+
 -Data Structures & Algorithms: Strengthening my problem-solving skills for university coursework.
+
 -Enrokode: Growing my student-led software development company by delivering impactful solutions.
 
 
 What You’ll Find Here:
 
 -Front-End Work: Some of my previous projects in web development.
+
 -Machine Learning Projects: Practical implementations of ML concepts and techniques.
+
 -Resources and Solutions: ML-related resources and problem-solving approaches.
 
 

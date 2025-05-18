@@ -1,26 +1,24 @@
-👋 Hi, I’m Sodiol Abdullah Olid
-I’m a Software Engineering student and Machine Learning enthusiast focused on solving problems and exploring innovative technologies.
+👋 Hello, I’m Sodiol Abdullah Olid
 
-What I’m Currently Focusing On:
+I am a Software Engineering student with a strong interest in Machine Learning. I enjoy solving problems, building projects, and learning new technologies.
 
--Machine Learning: Learning and building projects to develop expertise in intelligent systems.
+⸻
 
--Data Structures & Algorithms: Strengthening my problem-solving skills for university coursework.
+🎯 What I’m Working On:
+	•	🤖 Machine Learning: Studying concepts and building projects to understand intelligent systems.
+	•	🧩 Data Structures & Algorithms: Improving my problem-solving skills for university and coding competitions.
+	•	🚀 Enrokode: Growing my student-led software development company to deliver real-world solutions.
 
--Enrokode: Growing my student-led software development company by delivering impactful solutions.
+⸻
 
+📌 What You Will Find Here:
+	•	🌐 Front-End Projects: My work in web development.
+	•	💡 Machine Learning Implementations: Practical projects to apply what I learn.
+	•	📚 Resources and Solutions: Helpful guides and solutions for learning ML and coding.
 
-What You’ll Find Here:
+⸻
 
--Front-End Work: Some of my previous projects in web development.
-
--Machine Learning Projects: Practical implementations of ML concepts and techniques.
-
--Resources and Solutions: ML-related resources and problem-solving approaches.
-
-
-I’m passionate about learning new things and sharing my progress, hoping it inspires others to explore, create, and grow alongside me.
-
+I am always learning, building, and sharing my progress. Feel free to connect if you want to collaborate or discuss technology!
 
 
 ##

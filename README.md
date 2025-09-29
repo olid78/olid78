@@ -12,15 +12,6 @@ I also plan to share useful ML resources along the way.
 
 <br><br> <!-- ✅ Added space here -->
 
----
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olid78&show_icons=true&locale=en&layout=compact" alt="olid78" />
-</p>  
-
-<br><br> <!-- ✅ Added space here -->
-
----
 
 
 
@@ -40,14 +31,6 @@ I also plan to share useful ML resources along the way.
 <a href="https://www.leetcode.com/olid_78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="olid_78" height="30" width="40" /></a>
 </p>  
 
----
-
-## 🚀 What I’m Working On  
-- 🔭 I’m currently building **Enrochat – an AI-powered Chatbot Builder Platform**  
-- 🌱 I’m currently learning **Pandas**  
-- 📫 Reach me at: **sodiolabdullaholid@gmail.com**  
-
----
 
 ## 🛠️ Languages and Tools  
 <p align="left"> 

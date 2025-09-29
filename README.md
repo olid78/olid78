@@ -24,14 +24,9 @@ I also plan to share useful ML resources along the way.
 
 ---
 
-## ⚡ GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olid78&show_icons=true&locale=en" alt="olid78" />
-</p>  
 
----
 
-## 🏆 GitHub Trophies  
+
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=olid78&theme=onedark&margin-w=15&margin-h=15" alt="olid78 trophies" /> 
 </p>  
@@ -41,7 +36,7 @@ I also plan to share useful ML resources along the way.
 ## 🌐 Connect with me  
 <p align="left">
 <a href="https://twitter.com/olid78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olid78" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/olid78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olid78" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sodiolabdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olid78" height="30" width="40" /></a>
 <a href="https://fb.com/abdullahsodiol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullahsodiol" height="30" width="40" /></a>
 <a href="https://instagram.com/olid_78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="olid_78" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/olid_78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="olid_78" height="30" width="40" /></a>

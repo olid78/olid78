@@ -7,15 +7,13 @@ You can find some of my previous web development work here, and I will be adding
 I also plan to share useful ML resources along the way.  
 
 ---
-
-## 🔥 GitHub Streaks  
+  
 <img align="center" width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=olid78&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />  
 
 <br><br> <!-- ✅ Added space here -->
 
 ---
-
-## 📊 Most Used Languages  
+ 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olid78&show_icons=true&locale=en&layout=compact" alt="olid78" />
 </p>  

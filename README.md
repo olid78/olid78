@@ -10,8 +10,8 @@ I also plan to share useful ML resources along the way.
 ##
 <img align="left" width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=olid78&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
-<br></br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olid78&show_icons=true&locale=en&layout=compact" alt="olid78" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olid78&show_icons=true&locale=en&layout=compact" alt="olid78" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olid78&show_icons=true&locale=en" alt="olid78" /></p>
 

@@ -12,15 +12,6 @@ I also plan to share useful ML resources along the way.
 
 <br><br> <!-- ✅ Added space here -->
 
-
-
-
-
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=olid78&theme=onedark&margin-w=15&margin-h=15" alt="olid78 trophies" /> 
-</p>   
-
-
 ## Languages and Tools  
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;&nbsp;

@@ -10,5 +10,4 @@ I also plan to share useful ML resources along the way.
   
 <img align="center" width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=olid78&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />  
 
-<br><br> <!-- ✅ Added space here -->
 

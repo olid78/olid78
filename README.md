@@ -7,7 +7,7 @@ You can find some of my previous web development work here, and I will be adding
 I also plan to share useful ML resources along the way.  
 
 ---
-  
+ <div align="center"> 
 
 ![](https://github-readme-stats.vercel.app/api?username=olid78&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=olid78&theme=dark&hide_border=false)<br/>
@@ -16,5 +16,6 @@ I also plan to share useful ML resources along the way.
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+</div>
 
 
